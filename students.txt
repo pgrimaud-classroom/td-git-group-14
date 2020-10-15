@@ -1,6 +1,12 @@
 bla
 bla
+<<<<<<< HEAD
 blabla
 bla
 
 creation conflit
+=======
+
+
+non non non 
+>>>>>>> c39aecc28f99e082061e1ab7213ba0d1fd61de19
